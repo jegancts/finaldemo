@@ -2,28 +2,29 @@
 
 1. Technologies Used:
 
-Programing Launguage : JAVA , Selenium 
-Build Tool           : MAVEN
+    Programing Launguage : JAVA , Selenium 
+    
+    Build Tool           : MAVEN
 
-SDK                  : SDK 11.0.0
+    SDK                  : SDK 11.0.0
 
-Style                : BDD Framwork
+    Style                : BDD Framwork
 
-Integration          : Browerstack 
+    Integration          : Browerstack 
 
-Framework Followed   : Serenity ( Framework), Cucumber(BDD)
+    Framework Followed   : Serenity ( Framework), Cucumber(BDD)
 
-API Utilised         : REST ASSURED
+    API Utilised         : REST ASSURED
 
-API Tested           : POSTMAN (offline Ref https://api.postcodes.io/postcodes/SW1P4JA)
+    API Tested           : POSTMAN (offline Ref https://api.postcodes.io/postcodes/SW1P4JA)
 
-Design Pattern       : POM (Page Object Model - using PAGE FACTORY)
+    Design Pattern       : POM (Page Object Model - using PAGE FACTORY)
 
-Locators Used        : XPATH,ID,NAME
+    Locators Used        : XPATH,ID,NAME
 
-Unit Test            : Serenity Class, JUNIT
+    Unit Test            : Serenity Class, JUNIT
 
-MAVEN commands       : MVN CLEAN,TEST,INSTALL,BUILD
+    MAVEN commands       : MVN CLEAN,TEST,INSTALL,BUILD
 
 2. Application under test: Features Implemented:
 
